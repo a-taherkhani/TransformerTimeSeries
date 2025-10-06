@@ -2,4 +2,5 @@ After runing the python code and it explores the hyperparameters, there are JSON
 To observe this final training, the working directory must be set to the Master Thesis Code folder. Otherwise, the tuner will create a new directory and start searching for hyperparameters again.
 
 
-C:\Users\emek\Desktop\EmekUtku_Capoglu\Software\master Thesis Code
+
+
