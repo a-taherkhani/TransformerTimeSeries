@@ -1,7 +1,8 @@
 Article
-** A Comparison of Different Transformer Models for Time Series Prediction
+# A Comparison of Different Transformer Models for Time Series Prediction
 
-# Citation: Capoglu, E.U.; Taherkhani,
+# Citation:
+Capoglu, E.U.; Taherkhani,
 A. A Comparison of Different
 Transformer Models for Time Series
 Prediction. Information 2025, 1, 0.
@@ -11,6 +12,7 @@ Accurate estimation of the Remaining Useful Life (RUL) of lithium-ion batteries 
 
 After runing the python code and it explores the hyperparameters, there are JSON files in the bayesian_opt directory for each hyperparameter combination searched for each model. Each model also has a corresponding .py file designed to run the best hyperparameter combination for a final training of exactly 200 epochs.
 To observe this final training, the working directory must be set to the Master folder. Otherwise, the tuner will create a new directory and start searching for hyperparameters again.
+
 
 
 
